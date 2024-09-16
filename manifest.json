@@ -1,4 +1,8 @@
 {
     "ServerKind": 0,
-    "OrganizationName": "jiuzhou"
+    "OrganizationName": "jiuzhou",
+    "DefaultSettingsSource": {
+        "Value": "https://gitee.com/windtoo/classisland-mgmt-cfg/raw/master/Default.json",
+        "Version": 1
+    }
 }
