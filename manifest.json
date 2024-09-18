@@ -12,5 +12,9 @@
     "SubjectsSource": {
         "Value": "https://gitee.com/windtoo/classisland-mgmt-cfg/raw/master/Default.json",
         "Version": 1
+    },
+    "DefaultSettingsSource": {
+        "Value": "https://gitee.com/windtoo/classisland-mgmt-cfg/raw/master/Settings.json",
+        "Version": 1
     }
 }
